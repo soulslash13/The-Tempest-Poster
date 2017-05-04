@@ -1,0 +1,42 @@
+body{
+	background-color:midnightblue;
+	margin:0px;
+	padding:0px;
+}
+div{
+	float:left;
+}
+img{
+	width:95%;
+	height:95%;
+}
+.topleft{
+	width:33%;
+	height:50%;
+}
+.title{
+	width:33%;
+	height:33%;
+}
+.topright{
+	width:33%;
+	height:50%;
+}
+.centerleft{
+	width:33%;
+	height:50%;
+}
+.center{
+	width:33%;
+	height:33%;
+}
+.centerright{
+	width:33%;
+	height:50%;
+}
+
+.bottom{
+	width:33%;
+	height:33%;
+	margin:-10% 33%;
+}
